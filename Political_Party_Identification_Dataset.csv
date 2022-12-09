@@ -1,0 +1,70 @@
+﻿Q1: What gender do you identify with?,Q2: How old are you?,Q3: What is your race?,Q4: What is your highest level of education?,"Q5: Would you say you are liberal, conservative, or moderate?",Q6: How often do you worry about your financial situation?,"Q7: For the 2022 midterm elections, are you confident that votes nationwide will be counted fairly? If yes, would you say you are very confident or somewhat confident?","Q8: Would you support a voting system in which people could choose their first choice candidate, their second choice candidate, their third choice candidate, and so on?","Q9: If you had to guess, do you think America will elect a woman president in the next 25 years?","Q10: Do you think Americans will have universal, guaranteed healthcare in the next 25 years?",Q11: How likely is it that Donald Trump will be re-elected in 2024?,Q12: Do you think America will go to war with Russia in the next 50 years?,Q13: Do you think America will go to war with China in the next 50 years?,"Q14: Do you think your generation will leave behind a better world for the next generation, or a worse world?","Q15: Do you consider yourself a Democrat, a Republican, or Independent?"
+Female,65+,White,Some college,Liberal,Not Very Often,No,No,Yes,Yes,Not at all likely,Yes,Yes,Worse World,Democrat
+Male,65+,Asian,Some college,Moderate,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Not at all likely,No,No,Better World,Democrat
+Female,65+,Black,High school or less,Moderate,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Not at all likely,Yes,No,Better World,Democrat
+Male,18-24,Asian,College degree,Moderate,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Somewhat Likely,No,No,Better World,Independent
+Female,65+,Black,Graduate degree,Moderate,Very Often,No,Yes,Yes,No,Not at all likely,Yes,Yes,Worse World,Democrat
+Female,35-44,Asian,College degree,Moderate,Very Often,"Yes, somewhat confident",No,No,No,Somewhat Likely,No,No,Better World,Democrat
+Female,45-54,Black,Some college,Conservative,Somewhat Often,No,Yes,Yes,No,Not at all likely,Yes,No,Better World,Independent
+Female,55-64,White,Graduate degree,Moderate,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Female,55-64,White,Some college,Liberal,Very Often,No,No,Yes,Yes,Not at all likely,Yes,Yes,Better World,Democrat
+Male,55-64,White,Graduate degree,Moderate,Not Very Often,"Yes, somewhat confident",No,Yes,No,Somewhat Likely,No,No,Worse World,Democrat
+Female,45-54,White,Graduate degree,Liberal,Somewhat Often,No,Yes,Yes,Yes,Somewhat Likely,Yes,Yes,Better World,Democrat
+Female,55-64,White,College degree,Liberal,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Not at all likely,Yes,No,Worse World,Democrat
+Male,65+,White,College degree,Liberal,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Female,65+,White,High school or less,Conservative,Very Often,"Yes, very confident",No,No,No,Very Likely,No,Yes,Worse World,Independent
+Male,55-64,White,High school or less,Liberal,Very Often,"Yes, very confident",No,Yes,Yes,Somewhat Likely,No,No,Worse World,Democrat
+Female,45-54,White,High school or less,Conservative,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Very Likely,No,No,Better World,Republican
+Male,55-64,Latino,College degree,Conservative,Not Very Often,"Yes, very confident",No,Yes,Yes,Very Likely,No,No,Worse World,Independent
+Female,55-64,White,College degree,Moderate,Not Very Often,"Yes, very confident",Yes,No,No,Somewhat Likely,Yes,No,Better World,Independent
+Female,65+,White,Some college,Liberal,Not Very Often,No,No,Yes,No,Somewhat Likely,Yes,Yes,Worse World,Democrat
+Male,65+,White,Graduate degree,Liberal,Not Very Often,"Yes, very confident",No,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Male,65+,Black,Graduate degree,Conservative,Very Often,No,Yes,Yes,Yes,Not at all likely,Yes,Yes,Worse World,Democrat
+Female,45-54,Latino,College degree,Conservative,Not Very Often,"Yes, very confident",No,No,No,Very Likely,No,No,Better World,Independent
+Female,65+,Latino,Some college,Moderate,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Not at all likely,Yes,No,Better World,Democrat
+Female,65+,White,Some college,Moderate,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Very Likely,No,No,Better World,Independent
+Male,65+,Other,Some college,Conservative,Somewhat Often,No,Yes,Yes,Yes,Not at all likely,No,Yes,Better World,Democrat
+Female,55-64,White,Some college,Moderate,Somewhat Often,"Yes, very confident",No,No,Yes,Somewhat Likely,Yes,Yes,Worse World,Democrat
+Female,65+,White,Graduate degree,Conservative,Not Very Often,No,No,No,No,Not at all likely,No,No,Worse World,Independent
+Female,25-34,White,College degree,Liberal,Somewhat Often,"Yes, very confident",Yes,Yes,No,Not at all likely,Yes,No,Better World,Independent
+Male,55-64,White,Graduate degree,Moderate,Somewhat Often,"Yes, very confident",No,Yes,No,Not at all likely,No,Yes,Better World,Independent
+Male,65+,White,Graduate degree,Conservative,Not Very Often,"Yes, very confident",Yes,Yes,No,Somewhat Likely,No,No,Worse World,Republican
+Male,35-44,Black,Graduate degree,Liberal,Very Often,No,Yes,Yes,Yes,Not at all likely,Yes,Yes,Worse World,Independent
+Male,18-24,Asian,College degree,Liberal,Somewhat Often,No,Yes,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Male,25-34,White,High school or less,Liberal,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Somewhat Likely,No,No,Worse World,Independent
+Male,65+,White,College degree,Conservative,Not Very Often,"Yes, very confident",No,No,No,Very Likely,No,No,Better World,Republican
+Male,55-64,White,Some college,Conservative,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Somewhat Likely,No,No,Worse World,Republican
+Female,35-44,White,College degree,Conservative,Very Often,"Yes, very confident",Yes,Yes,No,Somewhat Likely,No,No,Better World,Republican
+Female,25-34,Other,Some college,Moderate,Somewhat Often,No,Yes,No,No,Very Likely,Yes,Yes,Worse World,Independent
+Female,65+,White,Some college,Conservative,Very Often,"Yes, somewhat confident",No,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Female,65+,White,College degree,Liberal,Very Often,No,Yes,Yes,No,Not at all likely,No,No,Better World,Democrat
+Male,45-54,White,Some college,Conservative,Very Often,No,Yes,Yes,No,Very Likely,No,No,Better World,Independent
+Female,35-44,White,Graduate degree,Moderate,Somewhat Often,"Yes, very confident",No,Yes,Yes,Not at all likely,No,No,Worse World,Democrat
+Female,18-24,Latino,College degree,Moderate,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Somewhat Likely,Yes,Yes,Better World,Democrat
+Female,55-64,Asian,Graduate degree,Liberal,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Female,18-24,Latino,Some college,Moderate,Not Very Often,No,Yes,No,No,Somewhat Likely,Yes,No,Worse World,Independent
+Female,55-64,White,Some college,Moderate,Very Often,"Yes, very confident",Yes,No,No,Very Likely,No,No,Better World,Republican
+Female,35-44,White,College degree,Moderate,Not Very Often,No,Yes,Yes,Yes,Not at all likely,Yes,No,Worse World,Independent
+Female,65+,White,Graduate degree,Liberal,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Not at all likely,No,No,Worse World,Democrat
+Male,25-34,White,High school or less,Liberal,Very Often,No,Yes,Yes,Yes,Not at all likely,Yes,No,Worse World,Independent
+Male,55-64,Asian,Graduate degree,Moderate,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Not at all likely,No,No,Better World,Democrat
+Female,25-34,White,Graduate degree,Moderate,Very Often,No,Yes,Yes,Yes,Somewhat Likely,Yes,Yes,Better World,Democrat
+Female,65+,Latino,College degree,Liberal,Not Very Often,No,Yes,Yes,Yes,Not at all likely,No,No,Worse World,Democrat
+Male,65+,White,High school or less,Conservative,Not Very Often,"Yes, somewhat confident",No,Yes,No,Very Likely,No,No,Better World,Republican
+Female,65+,White,College degree,Moderate,Not Very Often,No,No,Yes,Yes,Very Likely,No,No,Worse World,Republican
+Male,45-54,White,College degree,Moderate,Not Very Often,"Yes, very confident",No,No,No,Very Likely,No,No,Better World,Republican
+Female,35-44,White,College degree,Liberal,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Not at all likely,No,No,Worse World,Democrat
+Male,18-24,Latino,Some college,Moderate,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Somewhat Likely,No,No,Better World,Democrat
+Female,25-34,Latino,Some college,Conservative,Not Very Often,No,Yes,Yes,No,Somewhat Likely,No,Yes,Worse World,Independent
+Male,35-44,White,Some college,Moderate,Not Very Often,No,Yes,Yes,No,Not at all likely,Yes,Yes,Worse World,Independent
+Female,45-54,Black,Some college,Moderate,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Not at all likely,Yes,Yes,Worse World,Democrat
+Male,45-54,White,Some college,Conservative,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Very Likely,No,No,Better World,Republican
+Female,65+,White,College degree,Conservative,Somewhat Often,No,No,No,No,Very Likely,No,No,Better World,Republican
+Male,45-54,White,Graduate degree,Moderate,Very Often,"Yes, very confident",No,Yes,No,Not at all likely,No,No,Better World,Democrat
+Male,25-34,White,High school or less,Conservative,Somewhat Often,"Yes, very confident",No,Yes,Yes,Somewhat Likely,No,Yes,Worse World,Republican
+Female,65+,White,High school or less,Moderate,Not Very Often,"Yes, somewhat confident",No,Yes,No,Very Likely,Yes,No,Worse World,Republican
+Female,55-64,Black,Some college,Conservative,Very Often,"Yes, somewhat confident",No,No,Yes,Not at all likely,Yes,Yes,Better World,Democrat
+Male,55-64,White,High school or less,Moderate,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Somewhat Likely,No,No,Better World,Independent
+Male,55-64,Black,High school or less,Moderate,Very Often,"Yes, very confident",Yes,Yes,Yes,Somewhat Likely,No,No,Worse World,Independent
+Female,65+,White,Some college,Conservative,Not Very Often,"Yes, very confident",Yes,No,Yes,Very Likely,No,No,Better World,Independent
+Female,65+,Black,High school or less,Conservative,Somewhat Often,No,No,No,Yes,Not at all likely,Yes,No,Worse World,Democrat
